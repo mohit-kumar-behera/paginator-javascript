@@ -1,0 +1,15 @@
+body {
+  background-color: cadetblue;
+}
+
+.container {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+}
+.container h1 {
+  font-size: 4.5rem;
+  color: #fff;
+}
